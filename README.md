@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-- Cybersecurity graduate from India focused on SOC operations, incident detection, and vulnerability assessment.<br>- Hands‑on with Nmap, Linux, Wireshark, basic scripting, and common SIEM/EDR workflows from labs and projects.<br>- Currently learning VAPT methodologies, log analysis, and Microsoft security tools to prepare for SC-200.<br>- Interested in entry‑level SOC/VAPT roles and security internships where I can work on real-world incidents and investigations.<br>- Enjoy documenting findings clearly, automating repetitive tasks, and continuously improving blue-team defenses.
+#  About Me:
+<br>- Cybersecurity graduate from India focused on SOC operations, incident detection, and vulnerability assessment.<br>- Hands‑on with Nmap, Linux, Wireshark, basic scripting, and common SIEM/EDR workflows from labs and projects.<br>- Currently learning VAPT methodologies, log analysis, and Microsoft security tools to prepare for SC-200.<br>- Interested in entry‑level SOC/VAPT roles and security internships where I can work on real-world incidents and investigations.<br>- Enjoy documenting findings clearly, automating repetitive tasks, and continuously improving blue-team defenses.
 
 
 ## 🌐 Socials:
